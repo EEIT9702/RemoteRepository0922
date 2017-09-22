@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8" import="java.sql.*" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -22,6 +23,13 @@
 <a href="Servlet1" >Servlet1</a>
 <a href="Servlet2" >Servlet2</a>
 <a href="Servlet3" >Servlet3</a>
+
+<h1>hahaha</h1>
+<h2>123</h2>
+<h3>Welcome ${user.custid}</h3>
+<h3>Welcome ${user.custid}</h3>
+<h3>Welcome ${user.custid}</h3>
+
 
 </body>
 </html>
