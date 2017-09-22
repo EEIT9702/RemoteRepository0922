@@ -15,6 +15,7 @@
 <h4>做第二次修正和第三次commit</h4>
 
 <%Date date = new Date(System.currentTimeMillis()); %>
+
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <h3><a href="<c:url value="http://tw.yahoo.com" />">Yahoo</a></h3>
@@ -23,6 +24,7 @@
 <a href="Servlet1" >Servlet1</a>
 <a href="Servlet2" >Servlet2</a>
 <a href="Servlet3" >Servlet3</a>
+
 
 <h1>hahaha</h1>
 <h2>123</h2>
