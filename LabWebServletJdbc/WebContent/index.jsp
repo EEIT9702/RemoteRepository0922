@@ -16,7 +16,7 @@
 	现在是：<%
 		out.println(DateFormat.getTimeInstance().format(date));
 	%>
-
+<h3>123</h3>
 	<h3>helloWorld</h3>
 	<h3>
 		<a href="<c:url value="/secure/login.jsp" />">Login</a>
