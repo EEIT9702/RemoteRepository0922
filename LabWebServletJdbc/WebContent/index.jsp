@@ -10,7 +10,7 @@
 <title>Home</title>
 </head>
 <body>
-
+<img src="image/d4ba432d9a8d5034e140eda592173d62 (1).JPG"> 
 <h3>Welcome ${user.custid}</h3>
 <h1>快點讓我修改!!!!!!</h1>
 <h2>這是第二次Git測試</h2>
