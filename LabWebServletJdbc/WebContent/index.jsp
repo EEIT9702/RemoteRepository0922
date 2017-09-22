@@ -16,7 +16,7 @@
 <% Date date = new Date(System.currentTimeMillis()); %>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<h3><a href="<c:url value="http://tw.yahoo.com" />">Poduct</a></h3>
+<h3><a href="<c:url value="http://tw.yahoo.com" />">Yahoo</a></h3>
 <%= date %>
 
 </body>
