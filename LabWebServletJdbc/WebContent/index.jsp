@@ -16,7 +16,8 @@
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <h3><a href="<c:url value="http://www.google.com" />">google</a></h3>
 <h3><a href="<c:url value="http://www.yahoo.com" />">yahoo</a></h3>
-<%=date %>
+<%=date %><br>
 <%=dateteim %>
+
 </body>
 </html>
