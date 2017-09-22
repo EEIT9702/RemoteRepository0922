@@ -13,11 +13,15 @@
 <h3>做第一次修正和第二次commit</h3>
 <h4>做第二次修正和第三次commit</h4>
 
-<% Date date = new Date(System.currentTimeMillis()); %>
+<%Date date = new Date(System.currentTimeMillis()); %>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <h3><a href="<c:url value="http://tw.yahoo.com" />">Yahoo</a></h3>
 <%= date %>
+
+<a href="Servlet1" >Servlet1</a>
+<a href="Servlet2" >Servlet2</a>
+<a href="Servlet3" >Servlet3</a>
 
 </body>
 </html>

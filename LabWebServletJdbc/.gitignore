@@ -1,4 +1,9 @@
 /.settings/
 /build/
+<<<<<<< HEAD
 /.project
 /.classpath
+=======
+/.classpath
+/.project
+>>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git
