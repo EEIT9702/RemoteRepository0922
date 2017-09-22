@@ -9,9 +9,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home</title>
+
+</head>
+
+<body>
+
+
+<h3>Welcome ${user.custid}</h3>
+<h1>快點讓我修改!!!!!!</h1>
+<h2>這是第二次Git測試</h2>
+<h2>這是第二次Git測試</h2>
+<h2>這是第二次Git測試</h2>
+<h2>這是第二次Git測試</h2>
+
+
 </head>
 <body>
-<<<<<<< HEAD
+
 
 <h3>Welcome ${user.custid}</h3>
 <h3>做第一次修正和第二次commit</h3>
@@ -36,8 +50,12 @@
 <h3>123</h3>
 <h3>Welcome ${user.custid}</h3>
 
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
-
+<a href="Servlet1" >Servlet1</a>
+<a href="Servlet2" >Servlet2</a>
+<a href="Servlet3" >Servlet3</a>
 
 
 </body>
