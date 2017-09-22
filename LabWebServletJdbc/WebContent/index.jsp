@@ -18,6 +18,13 @@
 <h3><a href="<c:url value="http://www.yahoo.com" />">yahoo</a></h3>
 <%=date %><br>
 <%=dateteim %>
+<h2>123</h2>
+<h3>Welcome ${user.custid}</h3>
+<h3>Welcome ${user.custid}</h3>
+<h3>Welcome ${user.custid}</h3>
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
 
 </body>
 </html>
