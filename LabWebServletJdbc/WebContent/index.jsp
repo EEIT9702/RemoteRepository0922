@@ -1,6 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8" import="java.util.*,java.lang.*,java.text.*"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+=======
+    pageEncoding="UTF-8" import="java.sql.*"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+>>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -8,6 +12,7 @@
 <title>Home</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 	<h3>Welcome ${user.custid}</h3>
 	<%
@@ -46,5 +51,6 @@
 	</form>
 
    
+
 </body>
 </html>
