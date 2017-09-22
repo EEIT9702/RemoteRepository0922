@@ -1,16 +1,5 @@
 /.settings/
-<<<<<<< HEAD
-/build/
-<<<<<<< HEAD
-/.project
 /.classpath
+/.project
+/build/
 
-=======
-/.classpath
-/.project
->>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git
-=======
-/.classpath
-/.project
-/build/
->>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git

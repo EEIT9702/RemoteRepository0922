@@ -7,6 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home</title>
 </head>
+<<<<<<< HEAD
 <body>
 
 
@@ -18,10 +19,13 @@
 <h2>這是第二次Git測試</h2>
 
 
-<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
 
 
+=======
+<a href="Servlet1" >Servlet1</a>
+<a href="Servlet2" >Servlet2</a>
+<a href="Servlet3" >Servlet3</a>
+>>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git
 </body>
 </html>
