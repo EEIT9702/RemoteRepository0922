@@ -11,10 +11,12 @@
 
 <h3>Welcome ${user.custid}</h3>
 <%Date date =new Date(System.currentTimeMillis());  %>
+<%Timestamp dateteim =new Timestamp (System.currentTimeMillis());  %>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <h3><a href="<c:url value="http://www.google.com" />">google</a></h3>
 <h3><a href="<c:url value="http://www.yahoo.com" />">yahoo</a></h3>
 <%=date %>
+<%=dateteim %>
 </body>
 </html>
