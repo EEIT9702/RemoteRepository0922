@@ -8,7 +8,6 @@
 <title>Home</title>
 </head>
 <body>
-
 <h3>Welcome ${user.custid}</h3>
 <%Date date =new Date(System.currentTimeMillis());  %>
 <%Timestamp dateteim =new Timestamp (System.currentTimeMillis());  %>
@@ -18,6 +17,8 @@
 <h3><a href="<c:url value="http://www.yahoo.com" />">yahoo</a></h3>
 <%=date %><br>
 <%=dateteim %>
+<h1>hahaha</h1>
+<h1>hahaha</h1>
 <h2>123</h2>
 <h3>Welcome ${user.custid}</h3>
 <h3>Welcome ${user.custid}</h3>
@@ -25,12 +26,10 @@
 <body>
 <h3>123</h3>
 <h3>Welcome ${user.custid}</h3>
->>>>>>> branch 'master' of https://github.com/EEIT9702/RemoteRepository0922.git
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <a href="Servlet1" >Servlet1</a>
 <a href="Servlet2" >Servlet2</a>
 <a href="Servlet3" >Servlet3</a>
-
 </body>
 </html>
