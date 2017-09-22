@@ -10,6 +10,7 @@
 <title>Home</title>
 </head>
 <body>
+<H1><a href="ShowPictureServlet2">按這裡看真正的美美的圖片</a></H1><br>
 <img src="image/aee44fc32e47f07b5fe3050745ad94ac_XL.jpg">
 <h3>Welcome ${user.custid}</h3>
 <h1>快點讓我修改!!!!!!</h1>
